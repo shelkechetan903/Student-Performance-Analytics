@@ -57,3 +57,18 @@ The project successfully demonstrates how Python, NumPy and Pandas can be used t
 I learned how to load CSV files, work with Pandas DataFrames, perform numerical calculations using NumPy, create reusable functions, use loops and conditions, and save processed data into a CSV file.
 
 ## 10. GitHub Repository
+https://github.com/shelkechetan903/Student-Performance-Analytics
+
+## Output Screenshots
+
+### 1. Student Performance Report
+![Student Performance Report](screenshots/student_performance_Report.png)
+
+### 2. Result Summary and Subject-wise Analysis
+![Result Summary](screenshots/result_summary.png)
+
+### 3. Top 5 Students
+![Top 5 Students](screenshots/top_students.png)
+
+### 4. Attendance Analysis
+![Attendance Analysis](screenshots/attendance_analysis.png)
